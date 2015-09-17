@@ -13,7 +13,7 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 laptop <-3
 desktop <-39
-3*2*5 * laptop * desktop
+3*2*5 * laptop * desktop *5
 ```
 
 You can also embed plots, for example:
